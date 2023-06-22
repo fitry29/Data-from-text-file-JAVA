@@ -1,3 +1,3 @@
 # Data-from-text-file-JAVA
 
-Store data in person.txt into object and update it put in UpdatedPerson.txt
+Store data that in person.txt into object and update it into new file UpdatedPerson.txt
